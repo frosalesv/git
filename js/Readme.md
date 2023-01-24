@@ -7,3 +7,5 @@ Comandos utiles de Git.
 6.- git log
 7.- git commit --amend 
 8.- git checkout -b rama-primera
+9.- git branch    despliegue de rama.
+10- git branch -d rama-primera    borrado de la rama.
